@@ -1,3 +1,2 @@
 scipy
 PIL
-pillow
